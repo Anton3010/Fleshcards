@@ -1,0 +1,43 @@
+body {
+  background: #5D60FF;
+}
+.jumbotron {
+  text-align: center;
+}
+
+.js-hidden {
+  display: none;
+}
+
+.Operators-hidden{
+  display: none;
+}
+
+.clickable1 {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.clickable1:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.clickable2 {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.clickable2:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+
+
+.col-md-5 {
+
+  margin: 50px 40px;
+}
